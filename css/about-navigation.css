@@ -1,0 +1,5 @@
+/** Navigation Alignment **/
+
+#Nav ul li:first-child{
+	margin: 0 0 0 10px;
+}
